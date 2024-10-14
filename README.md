@@ -1,18 +1,19 @@
 # Pasos de la Actividad
 
 Para cada algoritmo realizar los siguientes pasos:
-1.Realizar un análisis exploratorio de los datos para identificar relaciones entre variables, valores atípicos, tendencias, etc.
 
-2.Preprocesar los datos limpiándolos, tratando valores faltantes y transformándolos según sea necesario.
+1. Realizar un análisis exploratorio de los datos para identificar relaciones entre variables, valores atípicos, tendencias, etc.
 
-3.Seleccionar las características más relevantes para entrenar el modelo utilizando selección de características.
+2. Preprocesar los datos limpiándolos, tratando valores faltantes y transformándolos según sea necesario.
 
-4.Dividir el dataset en Train y Test para evaluar correctamente el modelo.
+3. Seleccionar las características más relevantes para entrenar el modelo utilizando selección de características.
 
-5.Entrenar el modelo configurando los diferentes hiperparámetros.
+4. Dividir el dataset en Train y Test para evaluar correctamente el modelo.
 
-6.Evaluar el desempeño del modelo en el conjunto de Test con métricas como precisión, recall, F1-score, etc.
+5. Entrenar el modelo configurando los diferentes hiperparámetros.
 
-7.Realizar las diferentes gráficas que permitan visualizar los resultados del modelo.
+6. Evaluar el desempeño del modelo en el conjunto de Test con métricas como precisión, recall, F1-score, etc.
 
-8.Interpretar, analizar y documentar los resultados obtenidos.
+7. Realizar las diferentes gráficas que permitan visualizar los resultados del modelo.
+
+8. Interpretar, analizar y documentar los resultados obtenidos.
